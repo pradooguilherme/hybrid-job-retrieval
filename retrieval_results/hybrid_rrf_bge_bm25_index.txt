@@ -1,0 +1,1441 @@
+JobQuery 0
+Precision@10: 0.3
+Precision@20: 0.25
+Precision@30: 0.2
+Recall@30: 0.05172413793103448
+NDCG@10: 0.2221278279399327
+NDCG@20: 0.2161708076116196
+NDCG@30: 0.18907330643795148
+
+Rank 1 | Document Index: 842 | Score: 0.03125763125763126
+Rank 2 | Document Index: 841 | Score: 0.031099324975891997
+Rank 3 | Document Index: 736 | Score: 0.030117753623188408
+Rank 4 | Document Index: 768 | Score: 0.03007688828584351
+Rank 5 | Document Index: 684 | Score: 0.027799227799227798
+Rank 6 | Document Index: 764 | Score: 0.026919758412424506
+Rank 7 | Document Index: 671 | Score: 0.025989268947015427
+Rank 8 | Document Index: 1395 | Score: 0.02548701298701299
+Rank 9 | Document Index: 524 | Score: 0.024961240310077522
+Rank 10 | Document Index: 712 | Score: 0.024568195354377605
+Rank 11 | Document Index: 137 | Score: 0.02388888888888889
+Rank 12 | Document Index: 749 | Score: 0.023431077007399288
+Rank 13 | Document Index: 622 | Score: 0.023055454435141367
+Rank 14 | Document Index: 1407 | Score: 0.0224578203374373
+Rank 15 | Document Index: 648 | Score: 0.021320346320346323
+Rank 16 | Document Index: 1353 | Score: 0.02070775811783006
+Rank 17 | Document Index: 815 | Score: 0.019454887218045114
+Rank 18 | Document Index: 845 | Score: 0.018856904463913225
+Rank 19 | Document Index: 1428 | Score: 0.018304351443547716
+Rank 20 | Document Index: 402 | Score: 0.0180238694487294
+Rank 21 | Document Index: 356 | Score: 0.016952614379084966
+Rank 22 | Document Index: 572 | Score: 0.016129032258064516
+Rank 23 | Document Index: 1360 | Score: 0.016129032258064516
+Rank 24 | Document Index: 1064 | Score: 0.015873015873015872
+Rank 25 | Document Index: 1100 | Score: 0.015625
+Rank 26 | Document Index: 636 | Score: 0.015384615384615385
+Rank 27 | Document Index: 81 | Score: 0.015151515151515152
+Rank 28 | Document Index: 1410 | Score: 0.014870093974571588
+Rank 29 | Document Index: 534 | Score: 0.014709051724137931
+Rank 30 | Document Index: 814 | Score: 0.014492753623188406
+
+JobQuery 1
+Precision@10: 0.6
+Precision@20: 0.6
+Precision@30: 0.5666666666666667
+Recall@30: 0.14782608695652175
+NDCG@10: 0.6772733739526909
+NDCG@20: 0.645342087373235
+NDCG@30: 0.6124414058153967
+
+Rank 1 | Document Index: 841 | Score: 0.03200204813108039
+Rank 2 | Document Index: 824 | Score: 0.027263007840342125
+Rank 3 | Document Index: 842 | Score: 0.02632034632034632
+Rank 4 | Document Index: 636 | Score: 0.025779967159277502
+Rank 5 | Document Index: 709 | Score: 0.025603392041748205
+Rank 6 | Document Index: 805 | Score: 0.023284147827264113
+Rank 7 | Document Index: 1172 | Score: 0.023000660938532716
+Rank 8 | Document Index: 145 | Score: 0.022727272727272728
+Rank 9 | Document Index: 796 | Score: 0.0224578203374373
+Rank 10 | Document Index: 764 | Score: 0.022344322344322345
+Rank 11 | Document Index: 482 | Score: 0.02212301587301587
+Rank 12 | Document Index: 622 | Score: 0.021807909604519775
+Rank 13 | Document Index: 845 | Score: 0.01829068241469816
+Rank 14 | Document Index: 827 | Score: 0.017355371900826446
+Rank 15 | Document Index: 435 | Score: 0.016541865214431586
+Rank 16 | Document Index: 781 | Score: 0.01639344262295082
+Rank 17 | Document Index: 814 | Score: 0.016129032258064516
+Rank 18 | Document Index: 799 | Score: 0.016025641025641024
+Rank 19 | Document Index: 1421 | Score: 0.015625
+Rank 20 | Document Index: 739 | Score: 0.015625
+Rank 21 | Document Index: 752 | Score: 0.015574650912996778
+Rank 22 | Document Index: 221 | Score: 0.015384615384615385
+Rank 23 | Document Index: 745 | Score: 0.015384615384615385
+Rank 24 | Document Index: 797 | Score: 0.015151515151515152
+Rank 25 | Document Index: 1077 | Score: 0.015104879160966712
+Rank 26 | Document Index: 168 | Score: 0.014925373134328358
+Rank 27 | Document Index: 738 | Score: 0.014925373134328358
+Rank 28 | Document Index: 1353 | Score: 0.014705882352941176
+Rank 29 | Document Index: 300 | Score: 0.014492753623188406
+Rank 30 | Document Index: 734 | Score: 0.014492753623188406
+
+JobQuery 2
+Precision@10: 1.0
+Precision@20: 0.95
+Precision@30: 0.8333333333333334
+Recall@30: 0.2336448598130841
+NDCG@10: 1.0
+NDCG@20: 0.9665625086152865
+NDCG@30: 0.8814170766994597
+
+Rank 1 | Document Index: 145 | Score: 0.03278688524590164
+Rank 2 | Document Index: 197 | Score: 0.031754032258064516
+Rank 3 | Document Index: 208 | Score: 0.031054405392392875
+Rank 4 | Document Index: 131 | Score: 0.030158730158730156
+Rank 5 | Document Index: 199 | Score: 0.029206349206349208
+Rank 6 | Document Index: 168 | Score: 0.02904040404040404
+Rank 7 | Document Index: 120 | Score: 0.028991596638655463
+Rank 8 | Document Index: 115 | Score: 0.028985507246376812
+Rank 9 | Document Index: 161 | Score: 0.027149321266968326
+Rank 10 | Document Index: 189 | Score: 0.02702702702702703
+Rank 11 | Document Index: 152 | Score: 0.026373626373626377
+Rank 12 | Document Index: 206 | Score: 0.026151315789473682
+Rank 13 | Document Index: 141 | Score: 0.02574682290807064
+Rank 14 | Document Index: 170 | Score: 0.0246415770609319
+Rank 15 | Document Index: 210 | Score: 0.023369565217391305
+Rank 16 | Document Index: 196 | Score: 0.022970345162858532
+Rank 17 | Document Index: 201 | Score: 0.02209219011225221
+Rank 18 | Document Index: 1242 | Score: 0.02204457364341085
+Rank 19 | Document Index: 179 | Score: 0.022023809523809525
+Rank 20 | Document Index: 151 | Score: 0.022005772005772008
+Rank 21 | Document Index: 176 | Score: 0.0216077026421854
+Rank 22 | Document Index: 524 | Score: 0.020326864147088865
+Rank 23 | Document Index: 132 | Score: 0.01933868600535267
+Rank 24 | Document Index: 569 | Score: 0.019230769230769232
+Rank 25 | Document Index: 751 | Score: 0.019149715961150816
+Rank 26 | Document Index: 214 | Score: 0.01911001911001911
+Rank 27 | Document Index: 193 | Score: 0.018438697318007662
+Rank 28 | Document Index: 114 | Score: 0.017020687746488617
+Rank 29 | Document Index: 211 | Score: 0.016888297872340426
+Rank 30 | Document Index: 1491 | Score: 0.01676094699350513
+
+JobQuery 3
+Precision@10: 1.0
+Precision@20: 1.0
+Precision@30: 0.8333333333333334
+Recall@30: 0.2336448598130841
+NDCG@10: 1.0
+NDCG@20: 1.0
+NDCG@30: 0.8831354494483428
+
+Rank 1 | Document Index: 145 | Score: 0.03200204813108039
+Rank 2 | Document Index: 120 | Score: 0.030798389007344232
+Rank 3 | Document Index: 161 | Score: 0.030330882352941176
+Rank 4 | Document Index: 208 | Score: 0.03021353930031804
+Rank 5 | Document Index: 199 | Score: 0.02938045560996381
+Rank 6 | Document Index: 152 | Score: 0.026631393298059962
+Rank 7 | Document Index: 131 | Score: 0.026021080368906456
+Rank 8 | Document Index: 195 | Score: 0.02546333601933924
+Rank 9 | Document Index: 197 | Score: 0.025448143405889884
+Rank 10 | Document Index: 176 | Score: 0.024925373134328358
+Rank 11 | Document Index: 168 | Score: 0.02470238095238095
+Rank 12 | Document Index: 206 | Score: 0.02445795875198308
+Rank 13 | Document Index: 129 | Score: 0.02347781217750258
+Rank 14 | Document Index: 179 | Score: 0.022767295597484277
+Rank 15 | Document Index: 126 | Score: 0.022431077694235586
+Rank 16 | Document Index: 141 | Score: 0.021929824561403508
+Rank 17 | Document Index: 110 | Score: 0.02183253977470677
+Rank 18 | Document Index: 119 | Score: 0.02104133118625872
+Rank 19 | Document Index: 182 | Score: 0.02072594501718213
+Rank 20 | Document Index: 149 | Score: 0.020178197064989516
+Rank 21 | Document Index: 137 | Score: 0.019963369963369962
+Rank 22 | Document Index: 569 | Score: 0.018638297872340427
+Rank 23 | Document Index: 732 | Score: 0.018354803401532373
+Rank 24 | Document Index: 805 | Score: 0.01677805625174046
+Rank 25 | Document Index: 166 | Score: 0.015625
+Rank 26 | Document Index: 1554 | Score: 0.015384615384615385
+Rank 27 | Document Index: 196 | Score: 0.015384615384615385
+Rank 28 | Document Index: 1390 | Score: 0.0153276955602537
+Rank 29 | Document Index: 165 | Score: 0.015151515151515152
+Rank 30 | Document Index: 118 | Score: 0.014693264693264693
+
+JobQuery 4
+Precision@10: 1.0
+Precision@20: 0.9
+Precision@30: 0.8
+Recall@30: 0.22429906542056074
+NDCG@10: 1.0
+NDCG@20: 0.9347967382841033
+NDCG@30: 0.8586696744637954
+
+Rank 1 | Document Index: 145 | Score: 0.03225806451612903
+Rank 2 | Document Index: 161 | Score: 0.030536130536130537
+Rank 3 | Document Index: 199 | Score: 0.03047794966520434
+Rank 4 | Document Index: 196 | Score: 0.030330882352941176
+Rank 5 | Document Index: 206 | Score: 0.029906956136464335
+Rank 6 | Document Index: 131 | Score: 0.02904040404040404
+Rank 7 | Document Index: 120 | Score: 0.027984344422700584
+Rank 8 | Document Index: 208 | Score: 0.026399331662489554
+Rank 9 | Document Index: 197 | Score: 0.02632034632034632
+Rank 10 | Document Index: 193 | Score: 0.025779967159277502
+Rank 11 | Document Index: 115 | Score: 0.02490996398559424
+Rank 12 | Document Index: 141 | Score: 0.02478580171358629
+Rank 13 | Document Index: 152 | Score: 0.024624624624624628
+Rank 14 | Document Index: 201 | Score: 0.024092970521541947
+Rank 15 | Document Index: 189 | Score: 0.024069737184491284
+Rank 16 | Document Index: 179 | Score: 0.02333469000135667
+Rank 17 | Document Index: 159 | Score: 0.022983976884686105
+Rank 18 | Document Index: 211 | Score: 0.02259959141981614
+Rank 19 | Document Index: 845 | Score: 0.02172809422276373
+Rank 20 | Document Index: 524 | Score: 0.020997900209979
+Rank 21 | Document Index: 202 | Score: 0.02067932067932068
+Rank 22 | Document Index: 111 | Score: 0.02059848329575733
+Rank 23 | Document Index: 1172 | Score: 0.020090090090090093
+Rank 24 | Document Index: 214 | Score: 0.018883049790683174
+Rank 25 | Document Index: 168 | Score: 0.018163854689162488
+Rank 26 | Document Index: 123 | Score: 0.017715936739659367
+Rank 27 | Document Index: 569 | Score: 0.017697132616487456
+Rank 28 | Document Index: 402 | Score: 0.016960114983830397
+Rank 29 | Document Index: 81 | Score: 0.015625
+Rank 30 | Document Index: 166 | Score: 0.015384615384615385
+
+JobQuery 5
+Precision@10: 0.4
+Precision@20: 0.35
+Precision@30: 0.36666666666666664
+Recall@30: 0.09565217391304348
+NDCG@10: 0.3219505391887988
+NDCG@20: 0.31465609834236524
+NDCG@30: 0.3369168279557198
+
+Rank 1 | Document Index: 1441 | Score: 0.02574682290807064
+Rank 2 | Document Index: 904 | Score: 0.024085750315258513
+Rank 3 | Document Index: 448 | Score: 0.021153846153846155
+Rank 4 | Document Index: 842 | Score: 0.021136945155189678
+Rank 5 | Document Index: 799 | Score: 0.020833333333333332
+Rank 6 | Document Index: 749 | Score: 0.01999801999802
+Rank 7 | Document Index: 425 | Score: 0.019842627437564146
+Rank 8 | Document Index: 956 | Score: 0.019437877593905962
+Rank 9 | Document Index: 87 | Score: 0.01806380982170785
+Rank 10 | Document Index: 841 | Score: 0.017011197243755383
+Rank 11 | Document Index: 1240 | Score: 0.01639344262295082
+Rank 12 | Document Index: 168 | Score: 0.016129032258064516
+Rank 13 | Document Index: 743 | Score: 0.016129032258064516
+Rank 14 | Document Index: 170 | Score: 0.015873015873015872
+Rank 15 | Document Index: 734 | Score: 0.015873015873015872
+Rank 16 | Document Index: 81 | Score: 0.015625
+Rank 17 | Document Index: 771 | Score: 0.015625
+Rank 18 | Document Index: 4 | Score: 0.015384615384615385
+Rank 19 | Document Index: 1436 | Score: 0.015384615384615385
+Rank 20 | Document Index: 1543 | Score: 0.015151515151515152
+Rank 21 | Document Index: 814 | Score: 0.015151515151515152
+Rank 22 | Document Index: 824 | Score: 0.014925373134328358
+Rank 23 | Document Index: 828 | Score: 0.014925373134328358
+Rank 24 | Document Index: 524 | Score: 0.014705882352941176
+Rank 25 | Document Index: 862 | Score: 0.014705882352941176
+Rank 26 | Document Index: 948 | Score: 0.014492753623188406
+Rank 27 | Document Index: 769 | Score: 0.014492753623188406
+Rank 28 | Document Index: 1554 | Score: 0.014285714285714285
+Rank 29 | Document Index: 485 | Score: 0.014285714285714285
+Rank 30 | Document Index: 972 | Score: 0.014084507042253521
+
+JobQuery 6
+Precision@10: 0.7
+Precision@20: 0.65
+Precision@30: 0.6
+Recall@30: 0.1565217391304348
+NDCG@10: 0.631144327861347
+NDCG@20: 0.62175548288138
+NDCG@30: 0.5924725688943715
+
+Rank 1 | Document Index: 413 | Score: 0.03278688524590164
+Rank 2 | Document Index: 525 | Score: 0.03200204813108039
+Rank 3 | Document Index: 545 | Score: 0.03057889822595705
+Rank 4 | Document Index: 491 | Score: 0.029631255487269532
+Rank 5 | Document Index: 589 | Score: 0.028177225029148854
+Rank 6 | Document Index: 504 | Score: 0.028006267136701922
+Rank 7 | Document Index: 459 | Score: 0.027651515151515153
+Rank 8 | Document Index: 484 | Score: 0.026263297872340427
+Rank 9 | Document Index: 528 | Score: 0.025794938351719664
+Rank 10 | Document Index: 1421 | Score: 0.024643874643874644
+Rank 11 | Document Index: 541 | Score: 0.0238230289279637
+Rank 12 | Document Index: 405 | Score: 0.023399014778325122
+Rank 13 | Document Index: 442 | Score: 0.023148148148148147
+Rank 14 | Document Index: 447 | Score: 0.02299154334038055
+Rank 15 | Document Index: 89 | Score: 0.022415795586527294
+Rank 16 | Document Index: 523 | Score: 0.022291021671826623
+Rank 17 | Document Index: 460 | Score: 0.021749136939010358
+Rank 18 | Document Index: 756 | Score: 0.021464646464646464
+Rank 19 | Document Index: 83 | Score: 0.020887228130688894
+Rank 20 | Document Index: 513 | Score: 0.020861028735044484
+Rank 21 | Document Index: 884 | Score: 0.020792932557638442
+Rank 22 | Document Index: 495 | Score: 0.020742753623188406
+Rank 23 | Document Index: 522 | Score: 0.019433962264150943
+Rank 24 | Document Index: 1452 | Score: 0.017825585862466384
+Rank 25 | Document Index: 127 | Score: 0.017822520507084265
+Rank 26 | Document Index: 392 | Score: 0.017470247177296307
+Rank 27 | Document Index: 390 | Score: 0.017331635540464064
+Rank 28 | Document Index: 478 | Score: 0.016979638822936904
+Rank 29 | Document Index: 521 | Score: 0.016705974842767295
+Rank 30 | Document Index: 507 | Score: 0.015783259802398558
+
+JobQuery 7
+Precision@10: 0.5
+Precision@20: 0.35
+Precision@30: 0.3333333333333333
+Recall@30: 0.0847457627118644
+NDCG@10: 0.5302631099446181
+NDCG@20: 0.4158775356060645
+NDCG@30: 0.3914110518185784
+
+Rank 1 | Document Index: 1112 | Score: 0.03076923076923077
+Rank 2 | Document Index: 1441 | Score: 0.029411764705882353
+Rank 3 | Document Index: 350 | Score: 0.026709401709401708
+Rank 4 | Document Index: 1006 | Score: 0.02472929470295581
+Rank 5 | Document Index: 760 | Score: 0.024350649350649352
+Rank 6 | Document Index: 1030 | Score: 0.023119392684610076
+Rank 7 | Document Index: 1019 | Score: 0.021595262974573322
+Rank 8 | Document Index: 1389 | Score: 0.02127891750327368
+Rank 9 | Document Index: 808 | Score: 0.02107907383136741
+Rank 10 | Document Index: 1009 | Score: 0.020967051775780916
+Rank 11 | Document Index: 746 | Score: 0.020730397422126744
+Rank 12 | Document Index: 145 | Score: 0.018268268268268266
+Rank 13 | Document Index: 1047 | Score: 0.01778093883357041
+Rank 14 | Document Index: 1022 | Score: 0.016622516556291392
+Rank 15 | Document Index: 81 | Score: 0.01639344262295082
+Rank 16 | Document Index: 1491 | Score: 0.01639344262295082
+Rank 17 | Document Index: 33 | Score: 0.016129032258064516
+Rank 18 | Document Index: 1383 | Score: 0.016129032258064516
+Rank 19 | Document Index: 91 | Score: 0.015873015873015872
+Rank 20 | Document Index: 663 | Score: 0.015763076188201577
+Rank 21 | Document Index: 1061 | Score: 0.015625
+Rank 22 | Document Index: 1005 | Score: 0.015625
+Rank 23 | Document Index: 1486 | Score: 0.015151515151515152
+Rank 24 | Document Index: 134 | Score: 0.015151515151515152
+Rank 25 | Document Index: 1117 | Score: 0.014925373134328358
+Rank 26 | Document Index: 705 | Score: 0.014492753623188406
+Rank 27 | Document Index: 732 | Score: 0.014492753623188406
+Rank 28 | Document Index: 841 | Score: 0.014337101747173689
+Rank 29 | Document Index: 168 | Score: 0.014285714285714285
+Rank 30 | Document Index: 163 | Score: 0.014285714285714285
+
+JobQuery 8
+Precision@10: 0.5
+Precision@20: 0.5
+Precision@30: 0.4666666666666667
+Recall@30: 0.1206896551724138
+NDCG@10: 0.5294438830372381
+NDCG@20: 0.5155551898800963
+NDCG@30: 0.4876563304345687
+
+Rank 1 | Document Index: 681 | Score: 0.0287391216352965
+Rank 2 | Document Index: 307 | Score: 0.02557544757033248
+Rank 3 | Document Index: 632 | Score: 0.025232198142414862
+Rank 4 | Document Index: 841 | Score: 0.025089094796863866
+Rank 5 | Document Index: 1391 | Score: 0.023769338959212377
+Rank 6 | Document Index: 1569 | Score: 0.023690078037904124
+Rank 7 | Document Index: 473 | Score: 0.02362531085935341
+Rank 8 | Document Index: 636 | Score: 0.023088023088023088
+Rank 9 | Document Index: 692 | Score: 0.020850202429149797
+Rank 10 | Document Index: 696 | Score: 0.02082012259564574
+Rank 11 | Document Index: 1490 | Score: 0.020456905503634475
+Rank 12 | Document Index: 951 | Score: 0.020101483216237316
+Rank 13 | Document Index: 707 | Score: 0.020007209805335255
+Rank 14 | Document Index: 818 | Score: 0.019531922216485975
+Rank 15 | Document Index: 685 | Score: 0.018455834945196647
+Rank 16 | Document Index: 720 | Score: 0.017913510101010104
+Rank 17 | Document Index: 1563 | Score: 0.017858471612471165
+Rank 18 | Document Index: 648 | Score: 0.017844886753603295
+Rank 19 | Document Index: 627 | Score: 0.017361111111111112
+Rank 20 | Document Index: 81 | Score: 0.016129032258064516
+Rank 21 | Document Index: 1407 | Score: 0.016129032258064516
+Rank 22 | Document Index: 91 | Score: 0.015873015873015872
+Rank 23 | Document Index: 640 | Score: 0.015873015873015872
+Rank 24 | Document Index: 1455 | Score: 0.015669515669515667
+Rank 25 | Document Index: 843 | Score: 0.015625
+Rank 26 | Document Index: 635 | Score: 0.015625
+Rank 27 | Document Index: 1459 | Score: 0.015384615384615385
+Rank 28 | Document Index: 671 | Score: 0.015384615384615385
+Rank 29 | Document Index: 705 | Score: 0.015306716331044117
+Rank 30 | Document Index: 390 | Score: 0.015226956924502084
+
+JobQuery 9
+Precision@10: 0.0
+Precision@20: 0.05
+Precision@30: 0.06666666666666667
+Recall@30: 0.017241379310344827
+NDCG@10: 0.0
+NDCG@20: 0.0383846381653829
+NDCG@30: 0.05362642994053605
+
+Rank 1 | Document Index: 818 | Score: 0.024269005847953218
+Rank 2 | Document Index: 904 | Score: 0.02210552027357108
+Rank 3 | Document Index: 1370 | Score: 0.01921309064166207
+Rank 4 | Document Index: 1372 | Score: 0.016748366013071895
+Rank 5 | Document Index: 81 | Score: 0.01639344262295082
+Rank 6 | Document Index: 1360 | Score: 0.01639344262295082
+Rank 7 | Document Index: 87 | Score: 0.016129032258064516
+Rank 8 | Document Index: 969 | Score: 0.016129032258064516
+Rank 9 | Document Index: 1408 | Score: 0.015931068683362262
+Rank 10 | Document Index: 33 | Score: 0.015873015873015872
+Rank 11 | Document Index: 1413 | Score: 0.015873015873015872
+Rank 12 | Document Index: 671 | Score: 0.015702631417530515
+Rank 13 | Document Index: 91 | Score: 0.015625
+Rank 14 | Document Index: 910 | Score: 0.015625
+Rank 15 | Document Index: 550 | Score: 0.015384615384615385
+Rank 16 | Document Index: 996 | Score: 0.015384615384615385
+Rank 17 | Document Index: 17 | Score: 0.015151515151515152
+Rank 18 | Document Index: 493 | Score: 0.015151515151515152
+Rank 19 | Document Index: 4 | Score: 0.014925373134328358
+Rank 20 | Document Index: 938 | Score: 0.014925373134328358
+Rank 21 | Document Index: 61 | Score: 0.014705882352941176
+Rank 22 | Document Index: 632 | Score: 0.014705882352941176
+Rank 23 | Document Index: 71 | Score: 0.014492753623188406
+Rank 24 | Document Index: 1461 | Score: 0.014492753623188406
+Rank 25 | Document Index: 382 | Score: 0.014285714285714285
+Rank 26 | Document Index: 1184 | Score: 0.014285714285714285
+Rank 27 | Document Index: 39 | Score: 0.014084507042253521
+Rank 28 | Document Index: 953 | Score: 0.014084507042253521
+Rank 29 | Document Index: 891 | Score: 0.014027370478983382
+Rank 30 | Document Index: 22 | Score: 0.013888888888888888
+
+JobQuery 10
+Precision@10: 0.2
+Precision@20: 0.2
+Precision@30: 0.16666666666666666
+Recall@30: 0.045454545454545456
+NDCG@10: 0.12987501165334073
+NDCG@20: 0.15074503472548012
+NDCG@30: 0.13934535697671865
+
+Rank 1 | Document Index: 1061 | Score: 0.03252247488101534
+Rank 2 | Document Index: 838 | Score: 0.024404761904761905
+Rank 3 | Document Index: 193 | Score: 0.024224945926459983
+Rank 4 | Document Index: 531 | Score: 0.023323276862381063
+Rank 5 | Document Index: 705 | Score: 0.023119392684610076
+Rank 6 | Document Index: 669 | Score: 0.022819244604316547
+Rank 7 | Document Index: 678 | Score: 0.022569444444444444
+Rank 8 | Document Index: 654 | Score: 0.02172891707775429
+Rank 9 | Document Index: 46 | Score: 0.02037381521835415
+Rank 10 | Document Index: 76 | Score: 0.019602245694166905
+Rank 11 | Document Index: 905 | Score: 0.019516643866849065
+Rank 12 | Document Index: 687 | Score: 0.019483590277120967
+Rank 13 | Document Index: 363 | Score: 0.016560678325384208
+Rank 14 | Document Index: 982 | Score: 0.01639344262295082
+Rank 15 | Document Index: 936 | Score: 0.015873015873015872
+Rank 16 | Document Index: 482 | Score: 0.015455304928989139
+Rank 17 | Document Index: 81 | Score: 0.015384615384615385
+Rank 18 | Document Index: 961 | Score: 0.015384615384615385
+Rank 19 | Document Index: 40 | Score: 0.015199637023593466
+Rank 20 | Document Index: 382 | Score: 0.015151515151515152
+Rank 21 | Document Index: 1291 | Score: 0.015151515151515152
+Rank 22 | Document Index: 946 | Score: 0.014925373134328358
+Rank 23 | Document Index: 348 | Score: 0.014925373134328358
+Rank 24 | Document Index: 61 | Score: 0.014854753521126762
+Rank 25 | Document Index: 1345 | Score: 0.014705882352941176
+Rank 26 | Document Index: 1423 | Score: 0.014705882352941176
+Rank 27 | Document Index: 1441 | Score: 0.014492753623188406
+Rank 28 | Document Index: 203 | Score: 0.014492753623188406
+Rank 29 | Document Index: 1294 | Score: 0.014409963460449798
+Rank 30 | Document Index: 574 | Score: 0.014344997182232696
+
+JobQuery 11
+Precision@10: 0.9
+Precision@20: 0.9
+Precision@30: 0.8666666666666667
+Recall@30: 0.23214285714285715
+NDCG@10: 0.92663607790064
+NDCG@20: 0.9203150289737944
+NDCG@30: 0.8918206110733534
+
+Rank 1 | Document Index: 1245 | Score: 0.030834914611005692
+Rank 2 | Document Index: 1330 | Score: 0.03055037313432836
+Rank 3 | Document Index: 1262 | Score: 0.03036576949620428
+Rank 4 | Document Index: 1306 | Score: 0.02976190476190476
+Rank 5 | Document Index: 1264 | Score: 0.026916221033868093
+Rank 6 | Document Index: 1273 | Score: 0.0264808362369338
+Rank 7 | Document Index: 725 | Score: 0.02619736419157827
+Rank 8 | Document Index: 1253 | Score: 0.025188536953242836
+Rank 9 | Document Index: 1318 | Score: 0.025122549019607844
+Rank 10 | Document Index: 1340 | Score: 0.024961240310077522
+Rank 11 | Document Index: 1278 | Score: 0.024706420619185605
+Rank 12 | Document Index: 1279 | Score: 0.024497309544038517
+Rank 13 | Document Index: 1280 | Score: 0.024481265860576206
+Rank 14 | Document Index: 1300 | Score: 0.02399425287356322
+Rank 15 | Document Index: 1299 | Score: 0.023504273504273504
+Rank 16 | Document Index: 1290 | Score: 0.02329652572044169
+Rank 17 | Document Index: 1288 | Score: 0.02295788939624556
+Rank 18 | Document Index: 1282 | Score: 0.0227390180878553
+Rank 19 | Document Index: 1329 | Score: 0.022442084942084942
+Rank 20 | Document Index: 1421 | Score: 0.02186147186147186
+Rank 21 | Document Index: 825 | Score: 0.021741699161054
+Rank 22 | Document Index: 1256 | Score: 0.021482155035235283
+Rank 23 | Document Index: 1274 | Score: 0.02142857142857143
+Rank 24 | Document Index: 1317 | Score: 0.021367521367521368
+Rank 25 | Document Index: 1267 | Score: 0.021028701335606706
+Rank 26 | Document Index: 1248 | Score: 0.02075268817204301
+Rank 27 | Document Index: 1321 | Score: 0.02067901234567901
+Rank 28 | Document Index: 951 | Score: 0.020454545454545454
+Rank 29 | Document Index: 1301 | Score: 0.020326340326340328
+Rank 30 | Document Index: 1292 | Score: 0.019802821689614142
+
+JobQuery 12
+Precision@10: 0.8
+Precision@20: 0.5
+Precision@30: 0.4666666666666667
+Recall@30: 0.12173913043478261
+NDCG@10: 0.7877736340270853
+NDCG@20: 0.5762516824354472
+NDCG@30: 0.5355178828063822
+
+Rank 1 | Document Index: 749 | Score: 0.03149801587301587
+Rank 2 | Document Index: 709 | Score: 0.028588564574170333
+Rank 3 | Document Index: 818 | Score: 0.028177225029148854
+Rank 4 | Document Index: 845 | Score: 0.02603648424543947
+Rank 5 | Document Index: 841 | Score: 0.022115384615384617
+Rank 6 | Document Index: 740 | Score: 0.021900161030595812
+Rank 7 | Document Index: 1428 | Score: 0.021665695981362844
+Rank 8 | Document Index: 824 | Score: 0.021602434077079107
+Rank 9 | Document Index: 745 | Score: 0.021167557932263815
+Rank 10 | Document Index: 843 | Score: 0.020812783586506213
+Rank 11 | Document Index: 965 | Score: 0.01990740740740741
+Rank 12 | Document Index: 671 | Score: 0.01956686930091185
+Rank 13 | Document Index: 86 | Score: 0.0189873417721519
+Rank 14 | Document Index: 648 | Score: 0.018183320935614512
+Rank 15 | Document Index: 731 | Score: 0.01646787747357007
+Rank 16 | Document Index: 81 | Score: 0.01639344262295082
+Rank 17 | Document Index: 161 | Score: 0.01637840670859539
+Rank 18 | Document Index: 87 | Score: 0.016129032258064516
+Rank 19 | Document Index: 433 | Score: 0.016059757236227826
+Rank 20 | Document Index: 764 | Score: 0.016025641025641024
+Rank 21 | Document Index: 734 | Score: 0.015873015873015872
+Rank 22 | Document Index: 91 | Score: 0.015625
+Rank 23 | Document Index: 495 | Score: 0.015384615384615385
+Rank 24 | Document Index: 814 | Score: 0.015384615384615385
+Rank 25 | Document Index: 1239 | Score: 0.015199637023593466
+Rank 26 | Document Index: 77 | Score: 0.015151515151515152
+Rank 27 | Document Index: 212 | Score: 0.015151515151515152
+Rank 28 | Document Index: 799 | Score: 0.014925373134328358
+Rank 29 | Document Index: 742 | Score: 0.014705882352941176
+Rank 30 | Document Index: 4 | Score: 0.014492753623188406
+
+JobQuery 13
+Precision@10: 0.4
+Precision@20: 0.45
+Precision@30: 0.43333333333333335
+Recall@30: 0.11304347826086956
+NDCG@10: 0.5473983622993501
+NDCG@20: 0.539004745460611
+NDCG@30: 0.5068230100132934
+
+Rank 1 | Document Index: 446 | Score: 0.031099324975891997
+Rank 2 | Document Index: 518 | Score: 0.031009615384615385
+Rank 3 | Document Index: 493 | Score: 0.029236022193768675
+Rank 4 | Document Index: 87 | Score: 0.027263007840342125
+Rank 5 | Document Index: 91 | Score: 0.027108970929195647
+Rank 6 | Document Index: 483 | Score: 0.027106227106227107
+Rank 7 | Document Index: 89 | Score: 0.025873015873015874
+Rank 8 | Document Index: 33 | Score: 0.025793650793650792
+Rank 9 | Document Index: 81 | Score: 0.024065540194572452
+Rank 10 | Document Index: 55 | Score: 0.024007908487501763
+Rank 11 | Document Index: 550 | Score: 0.02397163120567376
+Rank 12 | Document Index: 521 | Score: 0.02393018018018018
+Rank 13 | Document Index: 530 | Score: 0.023504273504273504
+Rank 14 | Document Index: 491 | Score: 0.023411829134720702
+Rank 15 | Document Index: 75 | Score: 0.022113289760348584
+Rank 16 | Document Index: 61 | Score: 0.021776814734561216
+Rank 17 | Document Index: 505 | Score: 0.020976764199655766
+Rank 18 | Document Index: 731 | Score: 0.0203125
+Rank 19 | Document Index: 18 | Score: 0.01938936655553606
+Rank 20 | Document Index: 818 | Score: 0.01899189918991899
+Rank 21 | Document Index: 71 | Score: 0.01871774687308668
+Rank 22 | Document Index: 478 | Score: 0.018558295386201563
+Rank 23 | Document Index: 578 | Score: 0.017649239896180943
+Rank 24 | Document Index: 439 | Score: 0.017157397310069065
+Rank 25 | Document Index: 418 | Score: 0.016421024295040044
+Rank 26 | Document Index: 440 | Score: 0.016129032258064516
+Rank 27 | Document Index: 62 | Score: 0.015816454113528382
+Rank 28 | Document Index: 330 | Score: 0.015756050802779774
+Rank 29 | Document Index: 22 | Score: 0.015625
+Rank 30 | Document Index: 453 | Score: 0.015384615384615385
+
+JobQuery 14
+Precision@10: 0.8
+Precision@20: 0.75
+Precision@30: 0.6666666666666666
+Recall@30: 0.19607843137254902
+NDCG@10: 0.8415908474314975
+NDCG@20: 0.7985016712631997
+NDCG@30: 0.730600689851006
+
+Rank 1 | Document Index: 225 | Score: 0.027629397679130595
+Rank 2 | Document Index: 226 | Score: 0.027623285131627734
+Rank 3 | Document Index: 264 | Score: 0.026182294223531334
+Rank 4 | Document Index: 328 | Score: 0.025
+Rank 5 | Document Index: 220 | Score: 0.024827586206896554
+Rank 6 | Document Index: 277 | Score: 0.023431077007399288
+Rank 7 | Document Index: 234 | Score: 0.02265495736286114
+Rank 8 | Document Index: 221 | Score: 0.02214960058097313
+Rank 9 | Document Index: 294 | Score: 0.021865715983363045
+Rank 10 | Document Index: 548 | Score: 0.021205821205821207
+Rank 11 | Document Index: 258 | Score: 0.019764957264957264
+Rank 12 | Document Index: 256 | Score: 0.019407894736842103
+Rank 13 | Document Index: 268 | Score: 0.018670160497870947
+Rank 14 | Document Index: 283 | Score: 0.018045112781954885
+Rank 15 | Document Index: 235 | Score: 0.018030303030303032
+Rank 16 | Document Index: 230 | Score: 0.017460675848573793
+Rank 17 | Document Index: 81 | Score: 0.01639344262295082
+Rank 18 | Document Index: 276 | Score: 0.016129032258064516
+Rank 19 | Document Index: 87 | Score: 0.015873015873015872
+Rank 20 | Document Index: 7 | Score: 0.015625
+Rank 21 | Document Index: 271 | Score: 0.015625
+Rank 22 | Document Index: 168 | Score: 0.015384615384615385
+Rank 23 | Document Index: 290 | Score: 0.015384615384615385
+Rank 24 | Document Index: 289 | Score: 0.015246376811594204
+Rank 25 | Document Index: 482 | Score: 0.015151515151515152
+Rank 26 | Document Index: 304 | Score: 0.015151515151515152
+Rank 27 | Document Index: 851 | Score: 0.015030946065428824
+Rank 28 | Document Index: 827 | Score: 0.014925373134328358
+Rank 29 | Document Index: 222 | Score: 0.014925373134328358
+Rank 30 | Document Index: 1543 | Score: 0.014705882352941176
+
+JobQuery 15
+Precision@10: 1.0
+Precision@20: 0.9
+Precision@30: 0.8666666666666667
+Recall@30: 0.2549019607843137
+NDCG@10: 1.0
+NDCG@20: 0.9263159606882018
+NDCG@30: 0.898876479176389
+
+Rank 1 | Document Index: 243 | Score: 0.031054405392392875
+Rank 2 | Document Index: 244 | Score: 0.03047794966520434
+Rank 3 | Document Index: 233 | Score: 0.030117753623188408
+Rank 4 | Document Index: 277 | Score: 0.029906956136464335
+Rank 5 | Document Index: 308 | Score: 0.029206349206349208
+Rank 6 | Document Index: 295 | Score: 0.02904040404040404
+Rank 7 | Document Index: 221 | Score: 0.02844551282051282
+Rank 8 | Document Index: 290 | Score: 0.02712049508554787
+Rank 9 | Document Index: 237 | Score: 0.02690100430416069
+Rank 10 | Document Index: 264 | Score: 0.026709401709401708
+Rank 11 | Document Index: 328 | Score: 0.026356857985087564
+Rank 12 | Document Index: 254 | Score: 0.02625418060200669
+Rank 13 | Document Index: 239 | Score: 0.026190476190476188
+Rank 14 | Document Index: 256 | Score: 0.025676937441643323
+Rank 15 | Document Index: 250 | Score: 0.02548701298701299
+Rank 16 | Document Index: 280 | Score: 0.02548562548562549
+Rank 17 | Document Index: 385 | Score: 0.02402186421173763
+Rank 18 | Document Index: 276 | Score: 0.02325895875591616
+Rank 19 | Document Index: 317 | Score: 0.023057644110275687
+Rank 20 | Document Index: 296 | Score: 0.022762345679012343
+Rank 21 | Document Index: 222 | Score: 0.022487868386791336
+Rank 22 | Document Index: 249 | Score: 0.021627308861351415
+Rank 23 | Document Index: 226 | Score: 0.021578029642545772
+Rank 24 | Document Index: 235 | Score: 0.021545233406695237
+Rank 25 | Document Index: 248 | Score: 0.02152014652014652
+Rank 26 | Document Index: 303 | Score: 0.021491228070175436
+Rank 27 | Document Index: 315 | Score: 0.021405677655677656
+Rank 28 | Document Index: 389 | Score: 0.020709430756159726
+Rank 29 | Document Index: 281 | Score: 0.02028542303771662
+Rank 30 | Document Index: 591 | Score: 0.02028542303771662
+
+JobQuery 16
+Precision@10: 0.4
+Precision@20: 0.5
+Precision@30: 0.5
+Recall@30: 0.1271186440677966
+NDCG@10: 0.501749354207772
+NDCG@20: 0.5402219089022172
+NDCG@30: 0.5311123615632828
+
+Rank 1 | Document Index: 350 | Score: 0.029513888888888888
+Rank 2 | Document Index: 382 | Score: 0.029206349206349208
+Rank 3 | Document Index: 524 | Score: 0.028068137824235385
+Rank 4 | Document Index: 81 | Score: 0.02532201405152225
+Rank 5 | Document Index: 91 | Score: 0.024184149184149184
+Rank 6 | Document Index: 89 | Score: 0.024152480721664482
+Rank 7 | Document Index: 397 | Score: 0.023513328776486674
+Rank 8 | Document Index: 342 | Score: 0.023504273504273504
+Rank 9 | Document Index: 145 | Score: 0.02284044165403767
+Rank 10 | Document Index: 87 | Score: 0.02247681396617567
+Rank 11 | Document Index: 372 | Score: 0.022352647352647352
+Rank 12 | Document Index: 61 | Score: 0.02179808093450146
+Rank 13 | Document Index: 326 | Score: 0.020740883658113062
+Rank 14 | Document Index: 387 | Score: 0.0203125
+Rank 15 | Document Index: 368 | Score: 0.02020408163265306
+Rank 16 | Document Index: 432 | Score: 0.02006913769925101
+Rank 17 | Document Index: 482 | Score: 0.019455600178491746
+Rank 18 | Document Index: 1172 | Score: 0.018897768897768896
+Rank 19 | Document Index: 338 | Score: 0.01780392156862745
+Rank 20 | Document Index: 281 | Score: 0.016880341880341883
+Rank 21 | Document Index: 344 | Score: 0.01639344262295082
+Rank 22 | Document Index: 21 | Score: 0.016260162601626018
+Rank 23 | Document Index: 328 | Score: 0.016129032258064516
+Rank 24 | Document Index: 493 | Score: 0.015858324077502158
+Rank 25 | Document Index: 550 | Score: 0.015625
+Rank 26 | Document Index: 353 | Score: 0.015384615384615385
+Rank 27 | Document Index: 402 | Score: 0.015343915343915344
+Rank 28 | Document Index: 168 | Score: 0.0153011704253497
+Rank 29 | Document Index: 208 | Score: 0.015151515151515152
+Rank 30 | Document Index: 366 | Score: 0.015151515151515152
+
+JobQuery 17
+Precision@10: 0.8
+Precision@20: 0.9
+Precision@30: 0.8666666666666667
+Recall@30: 0.2549019607843137
+NDCG@10: 0.7162874455029681
+NDCG@20: 0.8169011809794537
+NDCG@30: 0.8130217979909232
+
+Rank 1 | Document Index: 168 | Score: 0.030886196246139225
+Rank 2 | Document Index: 226 | Score: 0.03007688828584351
+Rank 3 | Document Index: 256 | Score: 0.029957522915269395
+Rank 4 | Document Index: 269 | Score: 0.02817460317460317
+Rank 5 | Document Index: 258 | Score: 0.027046783625730993
+Rank 6 | Document Index: 289 | Score: 0.02681010928961749
+Rank 7 | Document Index: 298 | Score: 0.024961240310077522
+Rank 8 | Document Index: 249 | Score: 0.02413984461709212
+Rank 9 | Document Index: 302 | Score: 0.02325858778625954
+Rank 10 | Document Index: 591 | Score: 0.023197115384615385
+Rank 11 | Document Index: 261 | Score: 0.023138297872340424
+Rank 12 | Document Index: 316 | Score: 0.023122094445803768
+Rank 13 | Document Index: 248 | Score: 0.022795698924731184
+Rank 14 | Document Index: 290 | Score: 0.021431828545371637
+Rank 15 | Document Index: 254 | Score: 0.021222504697689843
+Rank 16 | Document Index: 262 | Score: 0.021183734298488396
+Rank 17 | Document Index: 247 | Score: 0.02110603754439371
+Rank 18 | Document Index: 235 | Score: 0.020572450805008944
+Rank 19 | Document Index: 306 | Score: 0.020292207792207792
+Rank 20 | Document Index: 222 | Score: 0.019960668633235007
+Rank 21 | Document Index: 275 | Score: 0.01971639471639472
+Rank 22 | Document Index: 271 | Score: 0.019641495041952707
+Rank 23 | Document Index: 208 | Score: 0.019638043896804003
+Rank 24 | Document Index: 221 | Score: 0.019524617996604415
+Rank 25 | Document Index: 224 | Score: 0.019004930524428507
+Rank 26 | Document Index: 228 | Score: 0.018958950486669488
+Rank 27 | Document Index: 244 | Score: 0.018445121951219515
+Rank 28 | Document Index: 170 | Score: 0.018341952165481578
+Rank 29 | Document Index: 260 | Score: 0.0172823023290313
+Rank 30 | Document Index: 317 | Score: 0.01700800793707037
+
+JobQuery 18
+Precision@10: 0.6
+Precision@20: 0.45
+Precision@30: 0.4
+Recall@30: 0.10909090909090909
+NDCG@10: 0.6651928536555898
+NDCG@20: 0.5384226280947515
+NDCG@30: 0.4826824992155897
+
+Rank 1 | Document Index: 101 | Score: 0.03125763125763126
+Rank 2 | Document Index: 37 | Score: 0.023537414965986395
+Rank 3 | Document Index: 158 | Score: 0.021342068691681558
+Rank 4 | Document Index: 91 | Score: 0.020150243040212106
+Rank 5 | Document Index: 1046 | Score: 0.01980974796508777
+Rank 6 | Document Index: 77 | Score: 0.01948785539446432
+Rank 7 | Document Index: 772 | Score: 0.01721938775510204
+Rank 8 | Document Index: 81 | Score: 0.01639344262295082
+Rank 9 | Document Index: 486 | Score: 0.01639344262295082
+Rank 10 | Document Index: 33 | Score: 0.016129032258064516
+Rank 11 | Document Index: 1107 | Score: 0.016129032258064516
+Rank 12 | Document Index: 4 | Score: 0.015873015873015872
+Rank 13 | Document Index: 83 | Score: 0.015625
+Rank 14 | Document Index: 1572 | Score: 0.015625
+Rank 15 | Document Index: 1045 | Score: 0.015384615384615385
+Rank 16 | Document Index: 1426 | Score: 0.015151515151515152
+Rank 17 | Document Index: 1098 | Score: 0.015151515151515152
+Rank 18 | Document Index: 58 | Score: 0.014925373134328358
+Rank 19 | Document Index: 1051 | Score: 0.014925373134328358
+Rank 20 | Document Index: 1270 | Score: 0.014705882352941176
+Rank 21 | Document Index: 1023 | Score: 0.014705882352941176
+Rank 22 | Document Index: 818 | Score: 0.014516129032258063
+Rank 23 | Document Index: 1127 | Score: 0.014492753623188406
+Rank 24 | Document Index: 36 | Score: 0.014285714285714285
+Rank 25 | Document Index: 1335 | Score: 0.014285714285714285
+Rank 26 | Document Index: 87 | Score: 0.014084507042253521
+Rank 27 | Document Index: 1574 | Score: 0.014084507042253521
+Rank 28 | Document Index: 32 | Score: 0.013888888888888888
+Rank 29 | Document Index: 175 | Score: 0.013888888888888888
+Rank 30 | Document Index: 1086 | Score: 0.0136986301369863
+
+JobQuery 19
+Precision@10: 0.9
+Precision@20: 0.7
+Precision@30: 0.7
+Recall@30: 0.1875
+NDCG@10: 0.9305687780632228
+NDCG@20: 0.7798502025209167
+NDCG@30: 0.7615941297897317
+
+Rank 1 | Document Index: 1306 | Score: 0.02919863597612958
+Rank 2 | Document Index: 1318 | Score: 0.027629397679130595
+Rank 3 | Document Index: 1252 | Score: 0.026333789329685362
+Rank 4 | Document Index: 1326 | Score: 0.025195618153364633
+Rank 5 | Document Index: 1294 | Score: 0.02279093455564044
+Rank 6 | Document Index: 1302 | Score: 0.022705196697425933
+Rank 7 | Document Index: 1240 | Score: 0.022559217947111167
+Rank 8 | Document Index: 1065 | Score: 0.022054416876423347
+Rank 9 | Document Index: 1321 | Score: 0.022001934235976787
+Rank 10 | Document Index: 1286 | Score: 0.020370370370370372
+Rank 11 | Document Index: 1243 | Score: 0.018403361344537815
+Rank 12 | Document Index: 1303 | Score: 0.017869964100518547
+Rank 13 | Document Index: 713 | Score: 0.01722753485655887
+Rank 14 | Document Index: 818 | Score: 0.016893997092016895
+Rank 15 | Document Index: 1267 | Score: 0.016666666666666666
+Rank 16 | Document Index: 81 | Score: 0.01639344262295082
+Rank 17 | Document Index: 170 | Score: 0.016129032258064516
+Rank 18 | Document Index: 1287 | Score: 0.016129032258064516
+Rank 19 | Document Index: 574 | Score: 0.015873015873015872
+Rank 20 | Document Index: 1301 | Score: 0.015873015873015872
+Rank 21 | Document Index: 1270 | Score: 0.015625
+Rank 22 | Document Index: 1245 | Score: 0.015625
+Rank 23 | Document Index: 33 | Score: 0.015384615384615385
+Rank 24 | Document Index: 1248 | Score: 0.015384615384615385
+Rank 25 | Document Index: 1299 | Score: 0.01527518656716418
+Rank 26 | Document Index: 1543 | Score: 0.015151515151515152
+Rank 27 | Document Index: 1276 | Score: 0.015151515151515152
+Rank 28 | Document Index: 1380 | Score: 0.014925373134328358
+Rank 29 | Document Index: 1273 | Score: 0.014925373134328358
+Rank 30 | Document Index: 1244 | Score: 0.014492753623188406
+
+JobQuery 20
+Precision@10: 0.8
+Precision@20: 0.85
+Precision@30: 0.9
+Recall@30: 0.24107142857142858
+NDCG@10: 0.8415908474314975
+NDCG@20: 0.864902934667502
+NDCG@30: 0.8961839017515336
+
+Rank 1 | Document Index: 1330 | Score: 0.032266458495966696
+Rank 2 | Document Index: 1280 | Score: 0.02946236559139785
+Rank 3 | Document Index: 1306 | Score: 0.028438886647841874
+Rank 4 | Document Index: 725 | Score: 0.027108970929195647
+Rank 5 | Document Index: 1279 | Score: 0.027046783625730993
+Rank 6 | Document Index: 1252 | Score: 0.026992753623188405
+Rank 7 | Document Index: 1281 | Score: 0.026200135226504394
+Rank 8 | Document Index: 1253 | Score: 0.025910931174089068
+Rank 9 | Document Index: 1276 | Score: 0.025562994522215457
+Rank 10 | Document Index: 951 | Score: 0.02548562548562549
+Rank 11 | Document Index: 1264 | Score: 0.025165372447512224
+Rank 12 | Document Index: 1251 | Score: 0.025148809523809525
+Rank 13 | Document Index: 1318 | Score: 0.02512945476698142
+Rank 14 | Document Index: 1336 | Score: 0.02483719521429653
+Rank 15 | Document Index: 1262 | Score: 0.02480203197370387
+Rank 16 | Document Index: 1273 | Score: 0.02428613482484545
+Rank 17 | Document Index: 1310 | Score: 0.023994452149791956
+Rank 18 | Document Index: 1317 | Score: 0.023554876496052965
+Rank 19 | Document Index: 1065 | Score: 0.023268398268398268
+Rank 20 | Document Index: 1245 | Score: 0.02318045862412762
+Rank 21 | Document Index: 1265 | Score: 0.022903453136011276
+Rank 22 | Document Index: 1326 | Score: 0.022442084942084942
+Rank 23 | Document Index: 1290 | Score: 0.0220189701897019
+Rank 24 | Document Index: 1302 | Score: 0.02182871143779931
+Rank 25 | Document Index: 1314 | Score: 0.021666666666666667
+Rank 26 | Document Index: 1300 | Score: 0.021164021164021163
+Rank 27 | Document Index: 1292 | Score: 0.021012101210121013
+Rank 28 | Document Index: 1282 | Score: 0.020890774125132558
+Rank 29 | Document Index: 1289 | Score: 0.020604395604395608
+Rank 30 | Document Index: 1303 | Score: 0.020539287971350326
+
+JobQuery 21
+Precision@10: 0.5
+Precision@20: 0.55
+Precision@30: 0.43333333333333335
+Recall@30: 0.11016949152542373
+NDCG@10: 0.41985237681355253
+NDCG@20: 0.4787728165327751
+NDCG@30: 0.4141905452209646
+
+Rank 1 | Document Index: 467 | Score: 0.0304147465437788
+Rank 2 | Document Index: 572 | Score: 0.02921395544346364
+Rank 3 | Document Index: 1084 | Score: 0.02821869488536155
+Rank 4 | Document Index: 1112 | Score: 0.028205128205128206
+Rank 5 | Document Index: 1022 | Score: 0.027912386121341344
+Rank 6 | Document Index: 569 | Score: 0.027629397679130595
+Rank 7 | Document Index: 182 | Score: 0.027031963470319637
+Rank 8 | Document Index: 736 | Score: 0.02702702702702703
+Rank 9 | Document Index: 1109 | Score: 0.026736111111111113
+Rank 10 | Document Index: 1064 | Score: 0.02664576802507837
+Rank 11 | Document Index: 839 | Score: 0.02564935064935065
+Rank 12 | Document Index: 137 | Score: 0.024695121951219513
+Rank 13 | Document Index: 1017 | Score: 0.0246415770609319
+Rank 14 | Document Index: 1052 | Score: 0.024492753623188406
+Rank 15 | Document Index: 1099 | Score: 0.02388097024256064
+Rank 16 | Document Index: 881 | Score: 0.023561507936507936
+Rank 17 | Document Index: 1419 | Score: 0.02332657200811359
+Rank 18 | Document Index: 1060 | Score: 0.022683885457608084
+Rank 19 | Document Index: 1072 | Score: 0.021869488536155203
+Rank 20 | Document Index: 1024 | Score: 0.02143744821872411
+Rank 21 | Document Index: 1491 | Score: 0.021176705623813803
+Rank 22 | Document Index: 764 | Score: 0.02117537313432836
+Rank 23 | Document Index: 1057 | Score: 0.020638297872340425
+Rank 24 | Document Index: 768 | Score: 0.020600414078674946
+Rank 25 | Document Index: 498 | Score: 0.020460358056265983
+Rank 26 | Document Index: 841 | Score: 0.020177024840582466
+Rank 27 | Document Index: 758 | Score: 0.020018016214593135
+Rank 28 | Document Index: 1095 | Score: 0.01980974796508777
+Rank 29 | Document Index: 448 | Score: 0.01968125960061444
+Rank 30 | Document Index: 460 | Score: 0.018779756656674307
+
+JobQuery 22
+Precision@10: 1.0
+Precision@20: 0.95
+Precision@30: 0.9666666666666667
+Recall@30: 0.2457627118644068
+NDCG@10: 1.0
+NDCG@20: 0.9659370277440175
+NDCG@30: 0.9738241177507562
+
+Rank 1 | Document Index: 1155 | Score: 0.031024531024531024
+Rank 2 | Document Index: 1174 | Score: 0.028258706467661692
+Rank 3 | Document Index: 1222 | Score: 0.027777777777777776
+Rank 4 | Document Index: 1203 | Score: 0.027730294396961064
+Rank 5 | Document Index: 1186 | Score: 0.027629397679130595
+Rank 6 | Document Index: 1210 | Score: 0.027071520029266508
+Rank 7 | Document Index: 1188 | Score: 0.026984126984126985
+Rank 8 | Document Index: 1197 | Score: 0.026129032258064518
+Rank 9 | Document Index: 1232 | Score: 0.025503573749187783
+Rank 10 | Document Index: 1235 | Score: 0.02542892156862745
+Rank 11 | Document Index: 1226 | Score: 0.02512945476698142
+Rank 12 | Document Index: 1135 | Score: 0.025007766387076732
+Rank 13 | Document Index: 1141 | Score: 0.025
+Rank 14 | Document Index: 1220 | Score: 0.024824684431977558
+Rank 15 | Document Index: 1178 | Score: 0.023561507936507936
+Rank 16 | Document Index: 1202 | Score: 0.023296291337528453
+Rank 17 | Document Index: 920 | Score: 0.023252890899949724
+Rank 18 | Document Index: 1227 | Score: 0.022833419823559936
+Rank 19 | Document Index: 1204 | Score: 0.02252925068459049
+Rank 20 | Document Index: 1153 | Score: 0.022294372294372294
+Rank 21 | Document Index: 1125 | Score: 0.022285443338074917
+Rank 22 | Document Index: 1130 | Score: 0.021602434077079107
+Rank 23 | Document Index: 1139 | Score: 0.02150900900900901
+Rank 24 | Document Index: 1185 | Score: 0.02127872127872128
+Rank 25 | Document Index: 1152 | Score: 0.021090021090021092
+Rank 26 | Document Index: 1217 | Score: 0.020539287971350326
+Rank 27 | Document Index: 1171 | Score: 0.0199486301369863
+Rank 28 | Document Index: 1175 | Score: 0.019826839826839828
+Rank 29 | Document Index: 1145 | Score: 0.01944302937680421
+Rank 30 | Document Index: 1225 | Score: 0.019344141488577743
+
+JobQuery 23
+Precision@10: 0.0
+Precision@20: 0.0
+Precision@30: 0.03333333333333333
+Recall@30: 0.008695652173913044
+NDCG@10: 0.0
+NDCG@20: 0.0
+NDCG@30: 0.022468483498681417
+
+Rank 1 | Document Index: 1233 | Score: 0.028370221327967807
+Rank 2 | Document Index: 1141 | Score: 0.02804284323271665
+Rank 3 | Document Index: 1176 | Score: 0.027579737335834898
+Rank 4 | Document Index: 1202 | Score: 0.02749266862170088
+Rank 5 | Document Index: 992 | Score: 0.0273972602739726
+Rank 6 | Document Index: 1125 | Score: 0.026988636363636364
+Rank 7 | Document Index: 1226 | Score: 0.02690100430416069
+Rank 8 | Document Index: 1235 | Score: 0.026597524255603883
+Rank 9 | Document Index: 1197 | Score: 0.026334026334026334
+Rank 10 | Document Index: 1204 | Score: 0.026234567901234566
+Rank 11 | Document Index: 1153 | Score: 0.02623004235907462
+Rank 12 | Document Index: 1217 | Score: 0.026182294223531334
+Rank 13 | Document Index: 1140 | Score: 0.026144907723855092
+Rank 14 | Document Index: 1220 | Score: 0.02542892156862745
+Rank 15 | Document Index: 1216 | Score: 0.02523465148484382
+Rank 16 | Document Index: 1223 | Score: 0.025151515151515154
+Rank 17 | Document Index: 1178 | Score: 0.024868018894137263
+Rank 18 | Document Index: 1215 | Score: 0.023415977961432508
+Rank 19 | Document Index: 1169 | Score: 0.023234323432343235
+Rank 20 | Document Index: 1137 | Score: 0.022695750851090657
+Rank 21 | Document Index: 931 | Score: 0.0220189701897019
+Rank 22 | Document Index: 1222 | Score: 0.02142857142857143
+Rank 23 | Document Index: 939 | Score: 0.02107907383136741
+Rank 24 | Document Index: 1184 | Score: 0.02072274397713352
+Rank 25 | Document Index: 1138 | Score: 0.020697748853088657
+Rank 26 | Document Index: 1135 | Score: 0.020632603406326035
+Rank 27 | Document Index: 920 | Score: 0.020427305888483585
+Rank 28 | Document Index: 1408 | Score: 0.019838568511134885
+Rank 29 | Document Index: 1225 | Score: 0.019813519813519812
+Rank 30 | Document Index: 1212 | Score: 0.01976246105919003
+
+JobQuery 24
+Precision@10: 1.0
+Precision@20: 1.0
+Precision@30: 0.9666666666666667
+Recall@30: 0.2457627118644068
+NDCG@10: 1.0
+NDCG@20: 1.0
+NDCG@30: 0.9777554718820065
+
+Rank 1 | Document Index: 1203 | Score: 0.030536130536130537
+Rank 2 | Document Index: 1186 | Score: 0.029551337359792925
+Rank 3 | Document Index: 1155 | Score: 0.0293236301369863
+Rank 4 | Document Index: 1188 | Score: 0.027637721755368813
+Rank 5 | Document Index: 1139 | Score: 0.026779422128259338
+Rank 6 | Document Index: 1204 | Score: 0.025188536953242836
+Rank 7 | Document Index: 1197 | Score: 0.025057603686635944
+Rank 8 | Document Index: 1178 | Score: 0.02488202488202488
+Rank 9 | Document Index: 1153 | Score: 0.024726775956284155
+Rank 10 | Document Index: 1226 | Score: 0.024350649350649352
+Rank 11 | Document Index: 1202 | Score: 0.024350649350649352
+Rank 12 | Document Index: 1174 | Score: 0.024065540194572452
+Rank 13 | Document Index: 1232 | Score: 0.023839931885908897
+Rank 14 | Document Index: 1222 | Score: 0.02379324490633119
+Rank 15 | Document Index: 1220 | Score: 0.023234683281412254
+Rank 16 | Document Index: 1217 | Score: 0.023042071197411
+Rank 17 | Document Index: 1210 | Score: 0.023000660938532716
+Rank 18 | Document Index: 1185 | Score: 0.022970345162858532
+Rank 19 | Document Index: 1173 | Score: 0.022947810123262524
+Rank 20 | Document Index: 1130 | Score: 0.022871376811594204
+Rank 21 | Document Index: 1225 | Score: 0.022833419823559936
+Rank 22 | Document Index: 1141 | Score: 0.022278314310798946
+Rank 23 | Document Index: 1171 | Score: 0.022068511198945984
+Rank 24 | Document Index: 1135 | Score: 0.021212121212121213
+Rank 25 | Document Index: 1145 | Score: 0.021132804119287706
+Rank 26 | Document Index: 1235 | Score: 0.020970575318401408
+Rank 27 | Document Index: 1150 | Score: 0.02069672131147541
+Rank 28 | Document Index: 1125 | Score: 0.02041026698278528
+Rank 29 | Document Index: 920 | Score: 0.020049461225931816
+Rank 30 | Document Index: 1216 | Score: 0.02003205128205128
+
+JobQuery 25
+Precision@10: 1.0
+Precision@20: 0.95
+Precision@30: 0.9
+Recall@30: 0.2288135593220339
+NDCG@10: 1.0
+NDCG@20: 0.9644899900915856
+NDCG@30: 0.9256269584689779
+
+Rank 1 | Document Index: 1125 | Score: 0.028594771241830064
+Rank 2 | Document Index: 1148 | Score: 0.02719970792259949
+Rank 3 | Document Index: 1217 | Score: 0.027118043247075507
+Rank 4 | Document Index: 1235 | Score: 0.026856524873828405
+Rank 5 | Document Index: 1151 | Score: 0.0264301860545992
+Rank 6 | Document Index: 1130 | Score: 0.025807525807525808
+Rank 7 | Document Index: 1163 | Score: 0.02535559678416821
+Rank 8 | Document Index: 1174 | Score: 0.025342039800995024
+Rank 9 | Document Index: 1157 | Score: 0.0246415770609319
+Rank 10 | Document Index: 1178 | Score: 0.02439349506798187
+Rank 11 | Document Index: 1200 | Score: 0.024127906976744187
+Rank 12 | Document Index: 1135 | Score: 0.022518382352941176
+Rank 13 | Document Index: 1204 | Score: 0.022431077694235586
+Rank 14 | Document Index: 1118 | Score: 0.022363818090954522
+Rank 15 | Document Index: 998 | Score: 0.021875
+Rank 16 | Document Index: 1126 | Score: 0.021584952204748688
+Rank 17 | Document Index: 1133 | Score: 0.021578029642545772
+Rank 18 | Document Index: 1156 | Score: 0.02142857142857143
+Rank 19 | Document Index: 1226 | Score: 0.02142857142857143
+Rank 20 | Document Index: 1210 | Score: 0.02138752926154501
+Rank 21 | Document Index: 1203 | Score: 0.02127872127872128
+Rank 22 | Document Index: 491 | Score: 0.020850202429149797
+Rank 23 | Document Index: 1216 | Score: 0.020770555316401207
+Rank 24 | Document Index: 1153 | Score: 0.020669698222405955
+Rank 25 | Document Index: 1233 | Score: 0.020614263404476835
+Rank 26 | Document Index: 939 | Score: 0.019743589743589744
+Rank 27 | Document Index: 1185 | Score: 0.019700627716079187
+Rank 28 | Document Index: 1222 | Score: 0.018812930577636458
+Rank 29 | Document Index: 1140 | Score: 0.018535225129172474
+Rank 30 | Document Index: 1218 | Score: 0.018271885658599968
+
+JobQuery 26
+Precision@10: 0.8
+Precision@20: 0.7
+Precision@30: 0.5666666666666667
+Recall@30: 0.14782608695652175
+NDCG@10: 0.8512360941594272
+NDCG@20: 0.7617730917297069
+NDCG@30: 0.6542313595807973
+
+Rank 1 | Document Index: 1358 | Score: 0.030886196246139225
+Rank 2 | Document Index: 1387 | Score: 0.029850746268656716
+Rank 3 | Document Index: 1391 | Score: 0.028850145288501453
+Rank 4 | Document Index: 1353 | Score: 0.028474711270410194
+Rank 5 | Document Index: 648 | Score: 0.02844551282051282
+Rank 6 | Document Index: 1378 | Score: 0.023597626752966557
+Rank 7 | Document Index: 1375 | Score: 0.022294372294372294
+Rank 8 | Document Index: 1377 | Score: 0.02209219011225221
+Rank 9 | Document Index: 1372 | Score: 0.02143719806763285
+Rank 10 | Document Index: 842 | Score: 0.02079759862778731
+Rank 11 | Document Index: 818 | Score: 0.02072594501718213
+Rank 12 | Document Index: 1429 | Score: 0.017902621722846443
+Rank 13 | Document Index: 1373 | Score: 0.017575757575757578
+Rank 14 | Document Index: 1414 | Score: 0.017392619479733817
+Rank 15 | Document Index: 81 | Score: 0.01639344262295082
+Rank 16 | Document Index: 87 | Score: 0.016129032258064516
+Rank 17 | Document Index: 1426 | Score: 0.015873015873015872
+Rank 18 | Document Index: 1360 | Score: 0.015873015873015872
+Rank 19 | Document Index: 1413 | Score: 0.015625
+Rank 20 | Document Index: 33 | Score: 0.015384615384615385
+Rank 21 | Document Index: 696 | Score: 0.015384615384615385
+Rank 22 | Document Index: 1448 | Score: 0.014968082764692935
+Rank 23 | Document Index: 473 | Score: 0.014949803579223046
+Rank 24 | Document Index: 4 | Score: 0.014705882352941176
+Rank 25 | Document Index: 598 | Score: 0.014705882352941176
+Rank 26 | Document Index: 409 | Score: 0.014285714285714285
+Rank 27 | Document Index: 475 | Score: 0.014285714285714285
+Rank 28 | Document Index: 1432 | Score: 0.014084507042253521
+Rank 29 | Document Index: 1438 | Score: 0.014084507042253521
+Rank 30 | Document Index: 373 | Score: 0.013888888888888888
+
+JobQuery 27
+Precision@10: 0.8
+Precision@20: 0.8
+Precision@30: 0.6666666666666666
+Recall@30: 0.1694915254237288
+NDCG@10: 0.8454256604216017
+NDCG@20: 0.8295198390126396
+NDCG@30: 0.731198193961497
+
+Rank 1 | Document Index: 888 | Score: 0.030090497737556562
+Rank 2 | Document Index: 943 | Score: 0.027757078986587184
+Rank 3 | Document Index: 948 | Score: 0.027106227106227107
+Rank 4 | Document Index: 898 | Score: 0.023430301434776885
+Rank 5 | Document Index: 1165 | Score: 0.023215244229736982
+Rank 6 | Document Index: 949 | Score: 0.02314071696094168
+Rank 7 | Document Index: 884 | Score: 0.02227361246348588
+Rank 8 | Document Index: 1197 | Score: 0.021845694799658994
+Rank 9 | Document Index: 956 | Score: 0.021307452030343597
+Rank 10 | Document Index: 966 | Score: 0.02094298245614035
+Rank 11 | Document Index: 994 | Score: 0.02085561497326203
+Rank 12 | Document Index: 1420 | Score: 0.02020408163265306
+Rank 13 | Document Index: 978 | Score: 0.01985062893081761
+Rank 14 | Document Index: 987 | Score: 0.019757988277557197
+Rank 15 | Document Index: 958 | Score: 0.019583333333333335
+Rank 16 | Document Index: 920 | Score: 0.019017150981960367
+Rank 17 | Document Index: 939 | Score: 0.01857379767827529
+Rank 18 | Document Index: 909 | Score: 0.01839023585683655
+Rank 19 | Document Index: 959 | Score: 0.01764705882352941
+Rank 20 | Document Index: 81 | Score: 0.01639344262295082
+Rank 21 | Document Index: 922 | Score: 0.0161907190209077
+Rank 22 | Document Index: 72 | Score: 0.016129032258064516
+Rank 23 | Document Index: 957 | Score: 0.016129032258064516
+Rank 24 | Document Index: 1216 | Score: 0.01597911892029539
+Rank 25 | Document Index: 972 | Score: 0.015873015873015872
+Rank 26 | Document Index: 429 | Score: 0.015873015873015872
+Rank 27 | Document Index: 1222 | Score: 0.01579338535860275
+Rank 28 | Document Index: 87 | Score: 0.015625
+Rank 29 | Document Index: 980 | Score: 0.015625
+Rank 30 | Document Index: 22 | Score: 0.015384615384615385
+
+JobQuery 28
+Precision@10: 0.9
+Precision@20: 0.8
+Precision@30: 0.7
+Recall@30: 0.17796610169491525
+NDCG@10: 0.9216017310213247
+NDCG@20: 0.8445799882536706
+NDCG@30: 0.7660824297392418
+
+Rank 1 | Document Index: 888 | Score: 0.03225806451612903
+Rank 2 | Document Index: 958 | Score: 0.02819138376017471
+Rank 3 | Document Index: 909 | Score: 0.026830135039090264
+Rank 4 | Document Index: 891 | Score: 0.02664576802507837
+Rank 5 | Document Index: 989 | Score: 0.026144907723855092
+Rank 6 | Document Index: 429 | Score: 0.025306978137166813
+Rank 7 | Document Index: 943 | Score: 0.024634009009009007
+Rank 8 | Document Index: 884 | Score: 0.023558758314855877
+Rank 9 | Document Index: 935 | Score: 0.022579898100972672
+Rank 10 | Document Index: 957 | Score: 0.022578859988931933
+Rank 11 | Document Index: 1222 | Score: 0.02247681396617567
+Rank 12 | Document Index: 956 | Score: 0.020757020757020756
+Rank 13 | Document Index: 966 | Score: 0.01998001998001998
+Rank 14 | Document Index: 948 | Score: 0.0199009900990099
+Rank 15 | Document Index: 996 | Score: 0.018622598775270532
+Rank 16 | Document Index: 978 | Score: 0.018476115278326096
+Rank 17 | Document Index: 919 | Score: 0.018417619522676697
+Rank 18 | Document Index: 912 | Score: 0.018042071197411004
+Rank 19 | Document Index: 1421 | Score: 0.017619807093491306
+Rank 20 | Document Index: 1432 | Score: 0.017440225035161745
+Rank 21 | Document Index: 972 | Score: 0.017260814428631817
+Rank 22 | Document Index: 925 | Score: 0.016523867809057527
+Rank 23 | Document Index: 413 | Score: 0.01639344262295082
+Rank 24 | Document Index: 980 | Score: 0.01639344262295082
+Rank 25 | Document Index: 81 | Score: 0.015873015873015872
+Rank 26 | Document Index: 600 | Score: 0.015625
+Rank 27 | Document Index: 889 | Score: 0.015151515151515152
+Rank 28 | Document Index: 1434 | Score: 0.014998314796090328
+Rank 29 | Document Index: 901 | Score: 0.014925373134328358
+Rank 30 | Document Index: 4 | Score: 0.014705882352941176
+
+JobQuery 29
+Precision@10: 0.9
+Precision@20: 0.9
+Precision@30: 0.8666666666666667
+Recall@30: 0.22033898305084745
+NDCG@10: 0.8899541168509599
+NDCG@20: 0.8905953420177884
+NDCG@30: 0.8689823507947553
+
+Rank 1 | Document Index: 994 | Score: 0.027745885954841176
+Rank 2 | Document Index: 925 | Score: 0.02724014336917563
+Rank 3 | Document Index: 777 | Score: 0.02715098147128967
+Rank 4 | Document Index: 943 | Score: 0.027146130794993832
+Rank 5 | Document Index: 884 | Score: 0.026878868258178604
+Rank 6 | Document Index: 922 | Score: 0.025794938351719664
+Rank 7 | Document Index: 938 | Score: 0.025278219395866455
+Rank 8 | Document Index: 909 | Score: 0.024934585193166076
+Rank 9 | Document Index: 894 | Score: 0.024325827078120657
+Rank 10 | Document Index: 969 | Score: 0.023800850030358228
+Rank 11 | Document Index: 888 | Score: 0.02369989165763814
+Rank 12 | Document Index: 429 | Score: 0.023214285714285715
+Rank 13 | Document Index: 987 | Score: 0.0225
+Rank 14 | Document Index: 964 | Score: 0.021603304034734726
+Rank 15 | Document Index: 898 | Score: 0.021568627450980392
+Rank 16 | Document Index: 996 | Score: 0.02150900900900901
+Rank 17 | Document Index: 939 | Score: 0.021390374331550804
+Rank 18 | Document Index: 890 | Score: 0.021084975630430176
+Rank 19 | Document Index: 956 | Score: 0.02089775029320823
+Rank 20 | Document Index: 985 | Score: 0.02070775811783006
+Rank 21 | Document Index: 572 | Score: 0.020182648401826486
+Rank 22 | Document Index: 965 | Score: 0.020128824476650563
+Rank 23 | Document Index: 992 | Score: 0.01962481962481963
+Rank 24 | Document Index: 914 | Score: 0.01962433417437623
+Rank 25 | Document Index: 924 | Score: 0.01960267229254571
+Rank 26 | Document Index: 912 | Score: 0.019419306184012067
+Rank 27 | Document Index: 903 | Score: 0.019334952363160844
+Rank 28 | Document Index: 1427 | Score: 0.018450797872340427
+Rank 29 | Document Index: 980 | Score: 0.018140589569160995
+Rank 30 | Document Index: 958 | Score: 0.01761851437103397
+
+JobQuery 30
+Precision@10: 0.9
+Precision@20: 0.9
+Precision@30: 0.8666666666666667
+Recall@30: 0.23636363636363636
+NDCG@10: 0.9052116356304492
+NDCG@20: 0.9033166747135537
+NDCG@30: 0.8774202106440303
+
+Rank 1 | Document Index: 37 | Score: 0.03125763125763126
+Rank 2 | Document Index: 89 | Score: 0.029906956136464335
+Rank 3 | Document Index: 77 | Score: 0.029857397504456328
+Rank 4 | Document Index: 418 | Score: 0.02797339593114241
+Rank 5 | Document Index: 81 | Score: 0.02619736419157827
+Rank 6 | Document Index: 91 | Score: 0.02604430914933198
+Rank 7 | Document Index: 33 | Score: 0.025816993464052286
+Rank 8 | Document Index: 53 | Score: 0.025708635464733027
+Rank 9 | Document Index: 108 | Score: 0.025353016688061617
+Rank 10 | Document Index: 22 | Score: 0.02523809523809524
+Rank 11 | Document Index: 54 | Score: 0.025155279503105588
+Rank 12 | Document Index: 4 | Score: 0.025124843945068663
+Rank 13 | Document Index: 47 | Score: 0.025098039215686277
+Rank 14 | Document Index: 105 | Score: 0.025057603686635944
+Rank 15 | Document Index: 791 | Score: 0.024934585193166076
+Rank 16 | Document Index: 87 | Score: 0.024634009009009007
+Rank 17 | Document Index: 85 | Score: 0.02408450704225352
+Rank 18 | Document Index: 67 | Score: 0.024080267558528427
+Rank 19 | Document Index: 11 | Score: 0.023214285714285715
+Rank 20 | Document Index: 101 | Score: 0.023032407407407408
+Rank 21 | Document Index: 869 | Score: 0.022677311118824484
+Rank 22 | Document Index: 55 | Score: 0.022616917965755177
+Rank 23 | Document Index: 818 | Score: 0.02207792207792208
+Rank 24 | Document Index: 65 | Score: 0.022073984232868403
+Rank 25 | Document Index: 71 | Score: 0.021910919540229883
+Rank 26 | Document Index: 17 | Score: 0.021792023696181106
+Rank 27 | Document Index: 92 | Score: 0.021674311926605506
+Rank 28 | Document Index: 19 | Score: 0.02115171650055371
+Rank 29 | Document Index: 12 | Score: 0.020562770562770564
+Rank 30 | Document Index: 69 | Score: 0.02007992007992008
+
+JobQuery 31
+Precision@10: 0.9
+Precision@20: 0.8
+Precision@30: 0.7
+Recall@30: 0.1826086956521739
+NDCG@10: 0.92663607790064
+NDCG@20: 0.8453211806636035
+NDCG@30: 0.7625141213547653
+
+Rank 1 | Document Index: 484 | Score: 0.0315136476426799
+Rank 2 | Document Index: 491 | Score: 0.029631255487269532
+Rank 3 | Document Index: 525 | Score: 0.029051670471052088
+Rank 4 | Document Index: 547 | Score: 0.026153846153846153
+Rank 5 | Document Index: 460 | Score: 0.025859192525859193
+Rank 6 | Document Index: 545 | Score: 0.025837770122142185
+Rank 7 | Document Index: 392 | Score: 0.02552166934189406
+Rank 8 | Document Index: 505 | Score: 0.025206087507926443
+Rank 9 | Document Index: 521 | Score: 0.02507351803126451
+Rank 10 | Document Index: 478 | Score: 0.02427116752685172
+Rank 11 | Document Index: 479 | Score: 0.023809523809523808
+Rank 12 | Document Index: 127 | Score: 0.02378987898789879
+Rank 13 | Document Index: 504 | Score: 0.023148148148148147
+Rank 14 | Document Index: 541 | Score: 0.022518382352941176
+Rank 15 | Document Index: 812 | Score: 0.021874252928520202
+Rank 16 | Document Index: 528 | Score: 0.020385395537525355
+Rank 17 | Document Index: 442 | Score: 0.020180180180180182
+Rank 18 | Document Index: 428 | Score: 0.019344141488577743
+Rank 19 | Document Index: 507 | Score: 0.018849557522123896
+Rank 20 | Document Index: 523 | Score: 0.01780392156862745
+Rank 21 | Document Index: 737 | Score: 0.017619807093491306
+Rank 22 | Document Index: 391 | Score: 0.017458920187793426
+Rank 23 | Document Index: 390 | Score: 0.017197088625660054
+Rank 24 | Document Index: 412 | Score: 0.01639344262295082
+Rank 25 | Document Index: 513 | Score: 0.015873015873015872
+Rank 26 | Document Index: 462 | Score: 0.015873015873015872
+Rank 27 | Document Index: 1421 | Score: 0.015625
+Rank 28 | Document Index: 512 | Score: 0.015625
+Rank 29 | Document Index: 459 | Score: 0.015422077922077922
+Rank 30 | Document Index: 451 | Score: 0.015385525770755665
+
+JobQuery 32
+Precision@10: 0.3
+Precision@20: 0.25
+Precision@30: 0.3
+Recall@30: 0.07627118644067797
+NDCG@10: 0.23177307466786254
+NDCG@20: 0.21776643872638873
+NDCG@30: 0.2612064265931042
+
+Rank 1 | Document Index: 124 | Score: 0.02580128205128205
+Rank 2 | Document Index: 168 | Score: 0.02441077441077441
+Rank 3 | Document Index: 746 | Score: 0.023015873015873017
+Rank 4 | Document Index: 1112 | Score: 0.022903412377096588
+Rank 5 | Document Index: 91 | Score: 0.022366522366522368
+Rank 6 | Document Index: 569 | Score: 0.020981058766391454
+Rank 7 | Document Index: 1030 | Score: 0.020174915523752734
+Rank 8 | Document Index: 1401 | Score: 0.019698620188816268
+Rank 9 | Document Index: 120 | Score: 0.019070512820512822
+Rank 10 | Document Index: 1063 | Score: 0.018723037100949094
+Rank 11 | Document Index: 752 | Score: 0.01846282372598162
+Rank 12 | Document Index: 81 | Score: 0.01639344262295082
+Rank 13 | Document Index: 1491 | Score: 0.01639344262295082
+Rank 14 | Document Index: 33 | Score: 0.016129032258064516
+Rank 15 | Document Index: 1499 | Score: 0.016129032258064516
+Rank 16 | Document Index: 1052 | Score: 0.015873015873015872
+Rank 17 | Document Index: 87 | Score: 0.015625
+Rank 18 | Document Index: 1005 | Score: 0.015625
+Rank 19 | Document Index: 1389 | Score: 0.01560631427888065
+Rank 20 | Document Index: 1441 | Score: 0.015194244604316547
+Rank 21 | Document Index: 800 | Score: 0.015151515151515152
+Rank 22 | Document Index: 1022 | Score: 0.014925373134328358
+Rank 23 | Document Index: 1056 | Score: 0.014925373134328358
+Rank 24 | Document Index: 17 | Score: 0.014705882352941176
+Rank 25 | Document Index: 1006 | Score: 0.014705882352941176
+Rank 26 | Document Index: 8 | Score: 0.014492753623188406
+Rank 27 | Document Index: 1057 | Score: 0.014492753623188406
+Rank 28 | Document Index: 439 | Score: 0.014285714285714285
+Rank 29 | Document Index: 808 | Score: 0.014285714285714285
+Rank 30 | Document Index: 1547 | Score: 0.014084507042253521
+
+JobQuery 33
+Precision@10: 1.0
+Precision@20: 0.7
+Precision@30: 0.6
+Recall@30: 0.1565217391304348
+NDCG@10: 1.0
+NDCG@20: 0.7866455300813714
+NDCG@30: 0.696759856294145
+
+Rank 1 | Document Index: 1353 | Score: 0.03149801587301587
+Rank 2 | Document Index: 1378 | Score: 0.030886196246139225
+Rank 3 | Document Index: 1358 | Score: 0.02976190476190476
+Rank 4 | Document Index: 1391 | Score: 0.028782894736842105
+Rank 5 | Document Index: 1387 | Score: 0.02844163539403516
+Rank 6 | Document Index: 1364 | Score: 0.028258706467661692
+Rank 7 | Document Index: 1456 | Score: 0.025388291517323774
+Rank 8 | Document Index: 1444 | Score: 0.024489795918367346
+Rank 9 | Document Index: 1438 | Score: 0.024201491487266073
+Rank 10 | Document Index: 1372 | Score: 0.023859649122807018
+Rank 11 | Document Index: 1533 | Score: 0.023527793065492568
+Rank 12 | Document Index: 696 | Score: 0.023472381681336904
+Rank 13 | Document Index: 1404 | Score: 0.022902603664416585
+Rank 14 | Document Index: 1375 | Score: 0.022060522060522062
+Rank 15 | Document Index: 546 | Score: 0.022001934235976787
+Rank 16 | Document Index: 1437 | Score: 0.02180353122407868
+Rank 17 | Document Index: 972 | Score: 0.02082012259564574
+Rank 18 | Document Index: 842 | Score: 0.02069327731092437
+Rank 19 | Document Index: 1414 | Score: 0.01912251655629139
+Rank 20 | Document Index: 863 | Score: 0.018996960486322188
+Rank 21 | Document Index: 1373 | Score: 0.01741935483870968
+Rank 22 | Document Index: 814 | Score: 0.017094017094017096
+Rank 23 | Document Index: 384 | Score: 0.016849557522123894
+Rank 24 | Document Index: 1380 | Score: 0.016815623965574313
+Rank 25 | Document Index: 411 | Score: 0.016372141372141373
+Rank 26 | Document Index: 81 | Score: 0.016129032258064516
+Rank 27 | Document Index: 866 | Score: 0.015604128718882818
+Rank 28 | Document Index: 33 | Score: 0.015384615384615385
+Rank 29 | Document Index: 1363 | Score: 0.015384615384615385
+Rank 30 | Document Index: 1448 | Score: 0.015151515151515152
+
+JobQuery 34
+Precision@10: 0.9
+Precision@20: 0.7
+Precision@30: 0.6333333333333333
+Recall@30: 0.16101694915254236
+NDCG@10: 0.9052116356304492
+NDCG@20: 0.7624220244658295
+NDCG@30: 0.6998142603634865
+
+Rank 1 | Document Index: 330 | Score: 0.03225806451612903
+Rank 2 | Document Index: 375 | Score: 0.031544957774465976
+Rank 3 | Document Index: 382 | Score: 0.029571646010002173
+Rank 4 | Document Index: 540 | Score: 0.02582908163265306
+Rank 5 | Document Index: 372 | Score: 0.0251661918328585
+Rank 6 | Document Index: 323 | Score: 0.023910582908885116
+Rank 7 | Document Index: 368 | Score: 0.02353266888150609
+Rank 8 | Document Index: 355 | Score: 0.023222251377591183
+Rank 9 | Document Index: 350 | Score: 0.022856436866814926
+Rank 10 | Document Index: 326 | Score: 0.02201155061566961
+Rank 11 | Document Index: 340 | Score: 0.02084126379901028
+Rank 12 | Document Index: 84 | Score: 0.020244914082559747
+Rank 13 | Document Index: 451 | Score: 0.019969278033794162
+Rank 14 | Document Index: 339 | Score: 0.019803921568627453
+Rank 15 | Document Index: 813 | Score: 0.019337979094076654
+Rank 16 | Document Index: 399 | Score: 0.019324894514767932
+Rank 17 | Document Index: 338 | Score: 0.01838731443994602
+Rank 18 | Document Index: 367 | Score: 0.01833931637271734
+Rank 19 | Document Index: 463 | Score: 0.01752495870142929
+Rank 20 | Document Index: 512 | Score: 0.017475579975579976
+Rank 21 | Document Index: 409 | Score: 0.017375630857966833
+Rank 22 | Document Index: 522 | Score: 0.01726660813579163
+Rank 23 | Document Index: 462 | Score: 0.01696741179639106
+Rank 24 | Document Index: 578 | Score: 0.01678690344062153
+Rank 25 | Document Index: 521 | Score: 0.01649470540320391
+Rank 26 | Document Index: 81 | Score: 0.01639344262295082
+Rank 27 | Document Index: 408 | Score: 0.01635260300223571
+Rank 28 | Document Index: 320 | Score: 0.016009221311475412
+Rank 29 | Document Index: 329 | Score: 0.015873015873015872
+Rank 30 | Document Index: 412 | Score: 0.015625
+
+JobQuery 35
+Precision@10: 0.9
+Precision@20: 0.6
+Precision@30: 0.5666666666666667
+Recall@30: 0.1440677966101695
+NDCG@10: 0.9052116356304492
+NDCG@20: 0.6951848227601533
+NDCG@30: 0.6489878723285313
+
+Rank 1 | Document Index: 372 | Score: 0.027364110201042444
+Rank 2 | Document Index: 336 | Score: 0.026779422128259338
+Rank 3 | Document Index: 340 | Score: 0.026153846153846153
+Rank 4 | Document Index: 491 | Score: 0.025057603686635944
+Rank 5 | Document Index: 391 | Score: 0.023669467787114845
+Rank 6 | Document Index: 368 | Score: 0.0234375
+Rank 7 | Document Index: 375 | Score: 0.023337887067395265
+Rank 8 | Document Index: 362 | Score: 0.023113443278360818
+Rank 9 | Document Index: 330 | Score: 0.02273787313432836
+Rank 10 | Document Index: 367 | Score: 0.02268649064342476
+Rank 11 | Document Index: 384 | Score: 0.0226010101010101
+Rank 12 | Document Index: 446 | Score: 0.021295089091699262
+Rank 13 | Document Index: 320 | Score: 0.021183734298488396
+Rank 14 | Document Index: 521 | Score: 0.020967051775780916
+Rank 15 | Document Index: 451 | Score: 0.02085133967156439
+Rank 16 | Document Index: 542 | Score: 0.02084126379901028
+Rank 17 | Document Index: 401 | Score: 0.019852472452417814
+Rank 18 | Document Index: 547 | Score: 0.01871263969505328
+Rank 19 | Document Index: 863 | Score: 0.01867479293639631
+Rank 20 | Document Index: 96 | Score: 0.01761025720244072
+Rank 21 | Document Index: 442 | Score: 0.01740967365967366
+Rank 22 | Document Index: 392 | Score: 0.016896120150187734
+Rank 23 | Document Index: 448 | Score: 0.016420147260050824
+Rank 24 | Document Index: 81 | Score: 0.01639344262295082
+Rank 25 | Document Index: 341 | Score: 0.016129032258064516
+Rank 26 | Document Index: 517 | Score: 0.016056478820442335
+Rank 27 | Document Index: 350 | Score: 0.015873015873015872
+Rank 28 | Document Index: 335 | Score: 0.015873015873015872
+Rank 29 | Document Index: 329 | Score: 0.015625
+Rank 30 | Document Index: 452 | Score: 0.015384615384615385
+
+Map: 0.13022212202742212
